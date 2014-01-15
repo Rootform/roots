@@ -8,6 +8,7 @@
             wp_nav_menu(array('theme_location' => 'primary_navigation', 'menu_class' => 'nav nav-pills'));
           endif;
         ?>
+        <p>Hello world</p>
       </nav>
     </div>
   </div>
